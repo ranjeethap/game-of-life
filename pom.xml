@@ -496,15 +496,6 @@
         </profile>
     </profiles>
 </project>
-<project>
-  <dependencies>
-    <dependency>
-      <groupId>com.google.apis</groupId>
-      <artifactId>google-api-services-container</artifactId>
-      <version>v1-rev32-1.23.0</version>
-    </dependency>
-  </dependencies>
-</project>
 <distributionManagement>
     <repository>
         <id>releases</id>
